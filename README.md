@@ -1,4 +1,7 @@
-### Hi there 👋
+![BANNER](https://github.com/peyssoa/peyssoa/raw/master/banner.jpg)
+
+### Hey there 👋, I'm Christiane
+A Web Developer based in China
 
 <!--
 **peyssoa/peyssoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
