@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Banner](https://media.giphy.com/media/lnfzT3k8g7wpG/giphy.gif)
 <!--
 **peyssoa/peyssoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
