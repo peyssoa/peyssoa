@@ -3,8 +3,6 @@
 ### Hey there 👋 
 I'm Christiane, A Software Developer based in China, currently working as a Web Developer at [@Wiredcraft](https://github.com/Wiredcraft)
 
-![Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)    ![peyssoa's stats](https://github-readme-stats.vercel.app/api?username=peyssoa&show_icons=true&hide=["issues"]) 
-
 <!--
 **peyssoa/peyssoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
