@@ -1,5 +1,3 @@
-![BANNER](https://github.com/peyssoa/peyssoa/raw/master/banner.jpg)
-
 ### Hey there 👋 
 I'm Christiane, A Software Developer based in China, currently working as a Web Developer at [@Wiredcraft](https://github.com/Wiredcraft)
 
