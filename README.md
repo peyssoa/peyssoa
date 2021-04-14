@@ -1,6 +1,9 @@
 ### Hey there 👋 
 I'm Christiane, A Software Developer based in China, currently working as a Web Developer at [@Wiredcraft](https://github.com/Wiredcraft)
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=peyssoa&langs_count=5&theme=tokyonight)]()
+
+
 <!--
 **peyssoa/peyssoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
